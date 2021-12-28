@@ -24,7 +24,7 @@ git clone https://github.com/ANUSARA-ANU/sms-spamer
 
 ```bhash
 
-cd lkbomber
+cd sms-spamer
 
 ```
 
@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 
 ```bhash
 
-python3 lkbomber.py
+python3 sms-spamer.py
 
 
 ```
