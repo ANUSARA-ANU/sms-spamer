@@ -92,7 +92,7 @@ if cho==1:
 		try:
 			num=int(input(Style.BRIGHT+'victims number type >>(07xxxxxxxx): '))
 			num='0'+str(num)
-			if len(num) == 10 and str(num)[0:3] in ('070','071','072','075','076','077','078','074',):
+			if len(num) == 10 and str(num)[0:3] in ('070','071','072','075','076','077','078','074,+1',):
 				break
 			else:
 				print(Fore.LIGHTRED_EX + 'Check your number & try again')
